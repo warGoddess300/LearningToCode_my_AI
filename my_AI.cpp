@@ -8,7 +8,9 @@
 
 #include <iostream>
 
-/* `<fstream>` C++ header (read, write, changes files on the hard disk).
+/* sorry, i didn't translate all 
+
+`<fstream>` C++ header (read, write, changes files on the hard disk).
 
 - `<fstream>` means "file stream" (flux de fichiers).
 - Il fournit trois classes principales :
